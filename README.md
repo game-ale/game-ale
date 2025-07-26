@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/picture.png" width="180" style="border-radius: 12px;" alt="Gemechu Alemu Profile"/>
-</p>
 
 <h1 align="center">Hi there, I'm Gemechu Alemu 👋</h1>
 
@@ -77,11 +74,4 @@
 
 ---
 
-### 🧠 How `<div>` works here:
 
-In this README, the `<div>` is used to **center the tech badges** because Markdown has limited layout features. GitHub allows raw HTML in README files, so:
-
-```html
-<div align="center">
-  <!-- badges inside -->
-</div>
