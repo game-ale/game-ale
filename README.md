@@ -30,7 +30,7 @@
 <h3 align="center">👨‍💻 Engineering Intelligence</h3>
 
 <p align="center">
-  I am a final-year <strong>CSE Student at ASTU</strong> tackling the intersection of <strong>Mobile Engineering</strong> and <strong>Artificial Intelligence</strong>. <br/>
+  I am a fourth year <strong>CSE Student at ASTU</strong> tackling the intersection of <strong>Mobile Engineering</strong> and <strong>Artificial Intelligence</strong>. <br/>
   While others just write code, I solve problems—evidenced by my <strong>ICPC Regional Ranking (8th Place)</strong> and top-tier performance on LeetCode.
 </p>
 
@@ -89,14 +89,17 @@
 
 ---
 
-<!-- GITHUB STATS SECTION -->
+<!-- GITHUB STATS SECTION (Optimized for High Contribution counts) -->
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <!-- FIXED: Using 'game-ale' (hyphen) for GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=game-ale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" height="170" />
+  <!-- Removed "include_all_commits" to prevent timeout errors -->
+  <img src="https://github-readme-stats.vercel.app/api?username=game-ale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="170" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=game-ale&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="170" />
+  
   <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=game-ale&theme=tokyonight&hide_border=true&background=00000000" />
 </div>
 
