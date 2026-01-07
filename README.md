@@ -2,9 +2,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Gemechu%20Alemu&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20Data%20Scientist&descAlignY=62&descAlign=50&fontColor=ffffff" alt="Header" />
 
-  <!-- Fixed the Typing SVG link and Color -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=600&lines=Writing+Clean+Code+@+ASTU;Solved+775%2B+LeetCode+Problems;Building+Scalable+Flutter+Apps;Training+AI+Models+for+Real+World+Impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=750&lines=CSE+Student+at+ASTU;Software+Engineer+at+African+to+Silicon+Valley;Competitive+Programmer;Building+Scalable+Flutter+Apps;Training+AI+Models+For+Real+World+Impact" alt="Typing SVG" />
   </a>
 </div>
 
