@@ -29,7 +29,7 @@
 <h3 align="center">👨‍💻 Engineering Intelligence</h3>
 
 <p align="center">
-  I am a final-year <strong>CSE Student at ASTU</strong> tackling the intersection of <strong>Mobile Engineering</strong> and <strong>Artificial Intelligence</strong>. <br/>
+  I am a fourth year <strong>CSE Student at ASTU</strong> tackling the intersection of <strong>Mobile Engineering</strong> and <strong>Artificial Intelligence</strong>. <br/>
   While others just write code, I solve problems—evidenced by my <strong>ICPC Regional Ranking (8th Place)</strong> and top-tier performance on LeetCode.
 </p>
 
