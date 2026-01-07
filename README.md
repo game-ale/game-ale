@@ -75,17 +75,6 @@
 </div>
 
 ---
-
-<!-- PROJECTS SECTION -->
-<h3 align="center">📂 Featured Projects</h3>
-
-| **Project Name** | **Description** | **Tech Stack** |
-| :--- | :--- | :--- |
-| **🏨 [Hotel Booking Pro](https://github.com/game-ale/hotel-booking-pro)** | A production-ready booking system. Features admin panels, payments, and map integration. | `Flutter` `Bloc` `Clean Arch` |
-| **🕵️ [Fraud Detection](https://github.com/game-ale/Fraud-Detection)** | Advanced ML pipeline for banking security. Uses SHAP for explainable AI to detect anomalies. | `Python` `Scikit-Learn` `SHAP` |
-| **💬 [Chatbot AI](https://github.com/game-ale/Chatbot-AI)** | Intelligent conversational agent integrating Gemini AI with chat history and context. | `Python` `Flask` `Gemini API` |
-| **📊 [Banking NLP](https://github.com/game-ale/banking-app-review-analysis)** | Data engineering pipeline analyzing fintech customer sentiment from Play Store reviews. | `PostgreSQL` `NLP` `Python` |
-
 ---
 
 <!-- GITHUB STATS SECTION (Optimized for High Contribution counts) -->
