@@ -1,89 +1,139 @@
-
-<h1 align="center">Hi there, I'm Gemechu Alemu 👋</h1>
-
-<p align="center">
-  <em>Computer Science and Engineering Student @ ASTU | Passionate Flutter Developer</em>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 CSE student at Adama Science and Technology University (ASTU)
-- 🧠 Always learning and growing — both in code and mindset
-- 🌍 Exploring the intersection of software, impact, and community
-- 📱 Special interest in mobile apps using **Flutter** & **Firebase**
-
----
-
-### 🚀 Tech Stack
-
+<!-- HEADER: The "Waving" Background + Your Typing Intro -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Gemechu%20Alemu&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20Data%20Scientist&descAlignY=62&descAlign=50&fontColor=ffffff" alt="Header" />
 
-<!-- Mobile -->
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-
-<!-- Tools & DB -->
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
+  <!-- TYPING EFFECT: Highlighting your specific Dual-Expertise -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20BCFF&center=true&vCenter=true&width=600&lines=Writing+Clean+Code+@+ASTU;Solved+775%2B+LeetCode+Problems;Building+Scalable+Flutter+Apps;Training+AI+Models+for+Real+World+Impact" alt="Typing SVG" />
+  </a>
 </div>
 
+<!-- SOCIAL BADGES: Modern "For-The-Badge" Style -->
+<div align="center">
+  <a href="https://linkedin.com/in/gemechu-alemu-9a5185338">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alemugemechu44@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/game_ale/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://t.me/Ga49Al22">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
 
+<br/>
 
----
-
-### 🌱 Currently Working On
-
-- 📦 Improving my **Flutter** app architecture (clean & modular)
-- 🌐 Exploring full-stack dev using **Node.js** and **MongoDB**
-- ✨ Launching small projects that solve local problems
-
----
-
-### 📊 GitHub Stats
+<!-- INTRO BLOCK: The "Professional" Hook -->
+<h3 align="center">👨‍💻 Engineering Intelligence</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=game-ale&show_icons=true&theme=radical" alt="Gemechu's GitHub Stats" />
+  I am a final-year <strong>CSE Student at ASTU</strong> tackling the intersection of <strong>Mobile Engineering</strong> and <strong>Artificial Intelligence</strong>. <br/>
+  While others just write code, I solve problems—evidenced by my <strong>ICPC Regional Ranking (8th Place)</strong> and top-tier performance on LeetCode.
+</p>
+
+<p align="center">
+  <em>“I build systems that are efficient by design and intelligent by default.”</em>
 </p>
 
 ---
 
-### 📫 Connect With Me
+<!-- TECH STACK: Separated by Domain for Clarity -->
+<h3 align="center">🚀 Technical Arsenal</h3>
 
-- 📧 Email: [alemugemechu44@gmail.com](mailto:alemugemechu44@gmail.com)
-- 💬 Telegram: [@gameale](https://t.me/Ga49Al22)
-- 🔗 LinkedIn: [linkedin.com/in/gemechu-alemu-9a5185338](https://www.linkedin.com/in/gemechu-alemu-9a5185338)
+<div align="center">
+  
+  <!-- ROW 1: LANGUAGES -->
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+  <br/>
+
+  <!-- ROW 2: APP DEV -->
+  <img src="https://img.shields.io/badge/App-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DB-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+  <br/>
+
+  <!-- ROW 3: AI & DATA -->
+  <img src="https://img.shields.io/badge/AI-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Env-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</div>
 
 ---
 
-> _“Code is like poetry — the cleaner it is, the deeper it connects.”_
+<!-- COMPETITIVE PROGRAMMING: The "Flex" Section -->
+<h3 align="center">🏆 Algorithmic Mastery</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <!-- LEETCODE LIVE CARD -->
+        <a href="https://leetcode.com/game_ale/">
+          <img src="https://leetcode-stats-six.vercel.app/?username=game_ale&theme=tokyonight&no-border=true" alt="LeetCode" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <!-- TROPHY CASE -->
+        <strong>🥇 ICPC 2025 (Ethiopia)</strong><br/>
+        <code>8th Place Regional Rank</code>
+        <br/><br/>
+        <strong>⚔️ Codeforces</strong><br/>
+        <code>Active Competitor</code>
+        <br/><br/>
+        <strong>🎓 LeetCode</strong><br/>
+        <code>Top Tier (775+ Solved)</code>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
+<!-- PROJECTS: Clean Table Layout -->
+<h3 align="center">📂 Featured Projects</h3>
 
+| **Project Name** | **Description** | **Tech Stack** |
+| :--- | :--- | :--- |
+| **🏨 [Hotel Booking Pro](https://github.com/game-ale/hotel-booking-pro)** | A production-ready booking system with Clean Architecture. Features admin panels, payment gateways, and map integration. | `Flutter` `Bloc` `Firebase` |
+| **🕵️ [Fraud Detection](https://github.com/game-ale/Fraud-Detection)** | Advanced ML pipeline for banking security. Uses SHAP for explainable AI to detect transaction anomalies. | `Python` `Scikit-Learn` `SHAP` |
+| **💬 [Chatbot AI](https://github.com/game-ale/Chatbot-AI)** | Intelligent conversational agent integrating Gemini AI with chat history and multi-domain support. | `Python` `Flask` `Gemini API` |
+| **📊 [Banking NLP](https://github.com/game-ale/banking-app-review-analysis)** | Data engineering pipeline analyzing fintech customer sentiment from Google Play reviews. | `PostgreSQL` `NLP` `Python` |
+
+---
+
+<!-- GITHUB STATS GRID -->
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<div align="center">
+  <!-- Top Row: General Stats + Language Graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=game-ale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=game-ale&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="170" />
+  
+  <br/>
+  
+  <!-- Bottom Row: Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=game-ale&theme=tokyonight&hide_border=true&background=00000000" />
+</div>
+
+<br/>
+
+<!-- FOOTER: Views & Connect -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=game-ale&label=Profile%20Views&color=0072ff&style=for-the-badge" alt="Views" />
+  <br/>
+  <br/>
+  <p><em>Looking for a developer who understands both Algorithms and Applications? <a href="mailto:alemugemechu44@gmail.com">Let's Talk.</a></em></p>
+</div>
