@@ -2,12 +2,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Gemechu%20Alemu&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20Data%20Scientist&descAlignY=62&descAlign=50&fontColor=ffffff" alt="Header" />
 
+  <!-- Fixed the Typing SVG link and Color -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20BCFF&center=true&vCenter=true&width=600&lines=Writing+Clean+Code+@+ASTU;Solved+775%2B+LeetCode+Problems;Building+Scalable+Flutter+Apps;Training+AI+Models+for+Real+World+Impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=600&lines=Writing+Clean+Code+@+ASTU;Solved+775%2B+LeetCode+Problems;Building+Scalable+Flutter+Apps;Training+AI+Models+for+Real+World+Impact" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- SOCIAL LINKS: Clean & Professional -->
+<!-- SOCIAL LINKS -->
 <div align="center">
   <a href="https://linkedin.com/in/gemechu-alemu-9a5185338">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,11 +26,11 @@
 
 <br/>
 
-<!-- ABOUT SECTION: Highlighting Intelligence & Engineering -->
+<!-- ABOUT SECTION -->
 <h3 align="center">👨‍💻 Engineering Intelligence</h3>
 
 <p align="center">
-  I am a fourth year <strong>CSE Student at ASTU</strong> tackling the intersection of <strong>Mobile Engineering</strong> and <strong>Artificial Intelligence</strong>. <br/>
+  I am a final-year <strong>CSE Student at ASTU</strong> tackling the intersection of <strong>Mobile Engineering</strong> and <strong>Artificial Intelligence</strong>. <br/>
   While others just write code, I solve problems—evidenced by my <strong>ICPC Regional Ranking (8th Place)</strong> and top-tier performance on LeetCode.
 </p>
 
@@ -39,51 +40,30 @@
 
 ---
 
-<!-- TECH STACK: Categorized for Recruiters -->
+<!-- TECH STACK -->
 <h3 align="center">🚀 Technical Arsenal</h3>
 
 <div align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-  <br/>
-
-  <!-- Mobile & Backend -->
-  <img src="https://img.shields.io/badge/App-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DB-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-  <br/>
-
-  <!-- AI & Data -->
-  <img src="https://img.shields.io/badge/AI-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,dart,java,js&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,nodejs,express,firebase,mongodb&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,sklearn&theme=dark" />
 </div>
 
 ---
 
-<!-- COMPETITIVE PROGRAMMING: The Hero Section -->
+<!-- COMPETITIVE PROGRAMMING SECTION -->
 <h3 align="center">🏆 Algorithmic Mastery</h3>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <!-- LIVE LEETCODE STATS -->
+        <!-- FIXED: Using 'game_ale' (underscore) for LeetCode -->
         <a href="https://leetcode.com/game_ale/">
-          <img src="https://leetcode-stats-six.vercel.app/?username=game_ale&theme=tokyonight&no-border=true" alt="LeetCode" />
+          <img src="https://leetcode-stats-six.vercel.app/?username=game_ale&theme=tokyonight&no-border=true" alt="LeetCode Stats" />
         </a>
       </td>
       <td align="center" width="50%">
-        <!-- AWARDS TEXT -->
         <h3>🥇 ICPC 2025 (Ethiopia)</h3>
         <p><code>8th Place Regional Rank</code></p>
         <p>Awarded for excellence in algorithmic problem solving under high pressure.</p>
@@ -97,7 +77,7 @@
 
 ---
 
-<!-- PROJECTS: Showcasing Best Work -->
+<!-- PROJECTS SECTION -->
 <h3 align="center">📂 Featured Projects</h3>
 
 | **Project Name** | **Description** | **Tech Stack** |
@@ -109,10 +89,11 @@
 
 ---
 
-<!-- GITHUB STATS: Transparent Tokyo Night Theme -->
+<!-- GITHUB STATS SECTION -->
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
+  <!-- FIXED: Using 'game-ale' (hyphen) for GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=game-ale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=game-ale&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="170" />
   <br/>
@@ -121,7 +102,7 @@
 
 ---
 
-<!-- SNAKE ANIMATION: The Neon Version -->
+<!-- SNAKE ANIMATION -->
 <h3 align="center">🐍 Contribution Activity</h3>
 
 <div align="center">
