@@ -23,6 +23,17 @@
   </a>
 </div>
 
+<!-- SNAKE ANIMATION (2025-2026 Integrated) -->
+<h3 align="center">🐍 2025 & 2026 Contribution Journey</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <br/>
 
 <!-- ABOUT SECTION -->
@@ -91,20 +102,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=game-ale&theme=tokyonight&hide_border=true&background=00000000" />
 </div>
 
+
 ---
 
-<!-- SNAKE ANIMATION -->
-<h3 align="center">🐍 Contribution Activity</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=game-ale&label=Profile%20Views&color=0072ff&style=for-the-badge" alt="Views" />
