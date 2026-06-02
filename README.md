@@ -21,6 +21,9 @@
   <a href="https://t.me/Ga49Al22">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  <a href="https://zindi.africa/users/game_ale">
+    <img src="https://img.shields.io/badge/Zindi-111111?style=for-the-badge&logoColor=white" />
+  </a>
 </div>
 
 <!-- SNAKE ANIMATION (2025-2026 Integrated) -->
