@@ -44,7 +44,11 @@
 
 <!-- GITHUB TROPHIES -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=game-ale&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://img.shields.io/badge/Repos-56-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Stars-220+-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Followers-1.3K-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Contributions-6.8K+-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PRs-Merged-00ff41?style=for-the-badge&logo=git&logoColor=00ff41&labelColor=0d1117" />
 </div>
 
 <br/>
