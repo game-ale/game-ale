@@ -213,20 +213,9 @@
 
 <div align="center">
   
-  <!-- 
-    ╔══════════════════════════════════════════════════════════════╗
-    ║  SPOTIFY SETUP REQUIRED                                     ║
-    ║  Replace YOUR_VERCEL_URL below after deploying novatorem    ║
-    ║  See walkthrough.md for full setup instructions              ║
-    ╚══════════════════════════════════════════════════════════════╝
-  -->
-  <a href="https://open.spotify.com/">
-    <img src="https://img.shields.io/badge/Spotify-Connect%20Coming%20Soon-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jwnhlnhswiieeqoetmnwpwrscy&cover_image=true&theme=novatorem&show_offline=true&background_color=0e0b11&interchange=false&profanity=false&hide_remaster=false&bar_color=00ff29&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
-  
-  <!-- After setup, replace the badge above with:
-  <img src="https://YOUR_VERCEL_URL.vercel.app/api" alt="Spotify Now Playing" width="400" />
-  -->
 </div>
 
 ---
