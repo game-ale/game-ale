@@ -1,14 +1,22 @@
-<!-- HEADER: Gradient Wave + Dynamic Typing Effect -->
+<!-- ═══════════════════════════════════════════════════════════════════════
+     🖤💚 DARK HACKER GREEN — Top 1% GitHub Profile
+     Theme: Matrix-inspired | #0d1117 background | #00ff41 accents
+     ═══════════════════════════════════════════════════════════════════════ -->
+
+<!-- HEADER: Dark-to-Green Gradient Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Gemechu%20Alemu&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20Data%20Scientist&descAlignY=62&descAlign=50&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00ff41&height=280&section=header&text=Gemechu%20Alemu&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20Top%20Contributor%20🇪🇹&descAlignY=62&descAlign=50&fontColor=00ff41" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=750&lines=CSE+Student+at+ASTU;Software+Engineer+Trainee+at+African+Silicon+valley;Competitive+Programmer;Building+Scalable+Flutter+Apps;Training+AI+Models+For+Real+World+Impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=CSE+Student+at+ASTU;Software+Engineer+Trainee+at+A2SV+(Google-Backed);Competitive+Programmer+%7C+ICPC+Top+8+Ethiopia;Building+Scalable+AI+%26+Flutter+Systems;Training+ML+Models+For+Real+World+Impact;Top+Contributor+in+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- SOCIAL LINKS -->
 <div align="center">
+  <a href="https://game-ldev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=googlechrome&logoColor=0d1117" />
+  </a>
   <a href="https://linkedin.com/in/gemechu-alemu-9a5185338">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -18,16 +26,31 @@
   <a href="https://leetcode.com/game_ale/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://codeforces.com/profile/gemechualemu">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
   <a href="https://t.me/AletheiaNike">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://x.com/alemu_geme88545">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://zindi.africa/users/game_ale">
     <img src="https://img.shields.io/badge/Zindi-111111?style=for-the-badge&logoColor=white" />
   </a>
 </div>
 
-<!-- SNAKE ANIMATION (2025-2026 Integrated) -->
-<h3 align="center">🐍 2025 & 2026 Contribution Journey</h3>
+<br/>
+
+<!-- GITHUB TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=game-ale&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+</div>
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<h3 align="center">🐍 Contribution Journey</h3>
 
 <div align="center">
   <picture>
@@ -39,17 +62,76 @@
 
 <br/>
 
+---
+
 <!-- ABOUT SECTION -->
 <h3 align="center">👨‍💻 Engineering Intelligence</h3>
 
+<div align="center">
+
+```
+🇪🇹  TOP CONTRIBUTOR IN ETHIOPIA  🇪🇹
+```
+
+</div>
+
 <p align="center">
-  I am a fourth year <strong>CSE Student at ASTU</strong> tackling the intersection of <strong>Mobile Engineering</strong> and <strong>Artificial Intelligence</strong>. <br/>
-  While others just write code, I solve problems—evidenced by my <strong>ICPC Regional Ranking (8th Place)</strong> and top-tier performance on LeetCode.
+  I am a fourth-year <strong>CSE Student at ASTU</strong> operating at the intersection of <strong>AI/ML Engineering</strong>, <strong>Mobile Development</strong>, and <strong>Competitive Programming</strong>. Trained through <strong>A2SV (Africa to Silicon Valley — backed by Google)</strong>, I build production-grade intelligence platforms — RAG pipelines, ML systems, and scalable Flutter applications.
 </p>
 
 <p align="center">
-  <em>“I build systems that are efficient by design and intelligent by default.”</em>
+  <em>"I build systems that are efficient by design and intelligent by default."</em>
 </p>
+
+---
+
+<!-- ACHIEVEMENTS -->
+<h3 align="center">🏅 Key Achievements</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🥇</td>
+      <td><strong>ICPC 2025 — ETCPC</strong></td>
+      <td>8th Place nationally in Ethiopia</td>
+    </tr>
+    <tr>
+      <td align="center">🥈</td>
+      <td><strong>CSEC CPD Cup</strong></td>
+      <td>2nd Place among 27 competing teams</td>
+    </tr>
+    <tr>
+      <td align="center">🏆</td>
+      <td><strong>ALX Code League</strong></td>
+      <td>6th Place nationally — representing ASTU</td>
+    </tr>
+    <tr>
+      <td align="center">🧠</td>
+      <td><strong>LeetCode</strong></td>
+      <td>775+ Problems Solved · Rating 1416+</td>
+    </tr>
+    <tr>
+      <td align="center">⚔️</td>
+      <td><strong>Codeforces</strong></td>
+      <td>Rating 1081 · Active Competitor</td>
+    </tr>
+    <tr>
+      <td align="center">🤖</td>
+      <td><strong>Zindi Africa</strong></td>
+      <td>Top 10% in multiple ML competitions</td>
+    </tr>
+    <tr>
+      <td align="center">🎓</td>
+      <td><strong>10 Academy — Kifiya AI</strong></td>
+      <td>Certified AI & MLOps Engineer</td>
+    </tr>
+    <tr>
+      <td align="center">💼</td>
+      <td><strong>A2SV (Google-Backed)</strong></td>
+      <td>Software Engineering Trainee · 450+ problems</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -57,9 +139,9 @@
 <h3 align="center">🚀 Technical Arsenal</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,dart,java,js&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,nodejs,express,firebase,mongodb&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,dart,java,js,ts&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,nextjs,react,fastapi,django,nodejs&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,postgres,mongodb,firebase&theme=dark" />
 </div>
 
 ---
@@ -71,9 +153,8 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <!-- FIXED: Using 'game_ale' (underscore) for LeetCode -->
         <a href="https://leetcode.com/game_ale/">
-          <img src="https://leetcode-stats-six.vercel.app/?username=game_ale&theme=tokyonight&no-border=true" alt="LeetCode Stats" />
+          <img src="https://leetcode-stats-six.vercel.app/?username=game_ale&theme=dark" alt="LeetCode Stats" />
         </a>
       </td>
       <td align="center" width="50%">
@@ -81,34 +162,82 @@
         <p><code>8th Place Regional Rank</code></p>
         <p>Awarded for excellence in algorithmic problem solving under high pressure.</p>
         <br/>
-        <strong>⚔️ Codeforces:</strong> Active Competitor<br/>
-        <strong>🎓 LeetCode:</strong> 775+ Problems Solved
+        <strong>⚔️ Codeforces:</strong> Rating 1081<br/>
+        <strong>🎓 LeetCode:</strong> 775+ Problems Solved<br/>
+        <strong>🏅 Rating:</strong> 1416+
       </td>
     </tr>
   </table>
 </div>
 
 ---
----
 
-<!-- GITHUB STATS SECTION (Optimized for High Contribution counts) -->
+<!-- GITHUB STATS SECTION — Hacker Green Theme -->
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <!-- Removed "include_all_commits" to prevent timeout errors -->
-  <img src="https://github-readme-stats.vercel.app/api?username=game-ale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=game-ale&show_icons=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&count_private=true&hide_border=false" height="170" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=game-ale&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=game-ale&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&langs_count=8&hide_border=false" height="170" />
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=game-ale&theme=tokyonight&hide_border=true&background=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=game-ale&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&border=00ff41" />
 </div>
-
 
 ---
 
+<!-- ACTIVITY GRAPH -->
+<h3 align="center">📈 Contribution Activity</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=game-ale&label=Profile%20Views&color=0072ff&style=for-the-badge" alt="Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=game-ale&bg_color=0d1117&color=00ff41&line=2ea043&point=00ff41&area=true&area_color=00ff41&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+<!-- 3D CONTRIBUTION GRAPH -->
+<h3 align="center">🧊 3D Contribution Map</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- SPOTIFY NOW PLAYING -->
+<h3 align="center">🎵 Vibing While Coding</h3>
+
+<div align="center">
+  
+  <!-- 
+    ╔══════════════════════════════════════════════════════════════╗
+    ║  SPOTIFY SETUP REQUIRED                                     ║
+    ║  Replace YOUR_VERCEL_URL below after deploying novatorem    ║
+    ║  See walkthrough.md for full setup instructions              ║
+    ╚══════════════════════════════════════════════════════════════╝
+  -->
+  <a href="https://open.spotify.com/">
+    <img src="https://img.shields.io/badge/Spotify-Connect%20Coming%20Soon-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+  
+  <!-- After setup, replace the badge above with:
+  <img src="https://YOUR_VERCEL_URL.vercel.app/api" alt="Spotify Now Playing" width="400" />
+  -->
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=game-ale&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:0d1117&height=120&section=footer" alt="Footer" />
 </div>
