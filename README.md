@@ -7,8 +7,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00ff41&height=280&section=header&text=Gemechu%20Alemu&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20Data%20Scientist&descAlignY=62&descAlign=50&fontColor=00ff41" alt="Header" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=CSE+Student+at+ASTU;Software+Engineer+Trainee+at+A2SV+(Google-Backed);Competitive+Programmer+%7C+ICPC+Top+8+Ethiopia;Building+Scalable+AI+%26+Flutter+Systems;Training+ML+Models+For+Real+World+Impact;Top+Contributor+in+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=CSE+Student+at+ASTU;Software+Engineer+Trainee+at+A2SV+(Google-Backed);Competitive+Programmer+%7C+EtCPC+Top+8+Ethiopia;Building+Scalable+AI+%26+Flutter+Systems;Training+ML+Models+For+Real+World+Impact" alt="Typing SVG" />
   </a>
 </div>
 
