@@ -53,28 +53,6 @@
 
 <br/>
 
-<!-- GITHUB TROPHY CUPS -->
-<h3 align="center">🏆 GitHub Trophy Cups</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🏆<br/><strong>Stars</strong><br/><code>220+</code></td>
-      <td align="center">🥇<br/><strong>Followers</strong><br/><code>1.3K+</code></td>
-      <td align="center">🏅<br/><strong>Repositories</strong><br/><code>56+</code></td>
-      <td align="center">🎖️<br/><strong>Commits</strong><br/><code>6.8K+</code></td>
-    </tr>
-    <tr>
-      <td align="center">💎<br/><strong>Pull Requests</strong><br/><code>Merged</code></td>
-      <td align="center">🔥<br/><strong>Experience</strong><br/><code>Active</code></td>
-      <td align="center">⚡<br/><strong>Languages</strong><br/><code>Multi-stack</code></td>
-      <td align="center">🚀<br/><strong>Profile</strong><br/><code>Top Contributor</code></td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
 <!-- SNAKE ANIMATION -->
 <h3 align="center">🐍 Contribution Journey</h3>
 
@@ -92,14 +70,6 @@
 
 <!-- ABOUT SECTION -->
 <h3 align="center">👨‍💻 Engineering Intelligence</h3>
-
-<div align="center">
-
-```
-🇪🇹  TOP CONTRIBUTOR IN ETHIOPIA  🇪🇹
-```
-
-</div>
 
 <p align="center">
   I am a fourth-year <strong>CSE Student at ASTU</strong> operating at the intersection of <strong>AI/ML Engineering</strong>, <strong>Mobile Development</strong>, and <strong>Competitive Programming</strong>. Trained through <strong>A2SV (Africa to Silicon Valley — backed by Google)</strong>, I build production-grade intelligence platforms — RAG pipelines, ML systems, and scalable Flutter applications.
