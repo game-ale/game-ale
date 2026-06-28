@@ -57,7 +57,20 @@
 <h3 align="center">🏆 GitHub Trophy Cups</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=game-ale&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophy Cups" />
+  <table>
+    <tr>
+      <td align="center">🏆<br/><strong>Stars</strong><br/><code>220+</code></td>
+      <td align="center">🥇<br/><strong>Followers</strong><br/><code>1.3K+</code></td>
+      <td align="center">🏅<br/><strong>Repositories</strong><br/><code>56+</code></td>
+      <td align="center">🎖️<br/><strong>Commits</strong><br/><code>6.8K+</code></td>
+    </tr>
+    <tr>
+      <td align="center">💎<br/><strong>Pull Requests</strong><br/><code>Merged</code></td>
+      <td align="center">🔥<br/><strong>Experience</strong><br/><code>Active</code></td>
+      <td align="center">⚡<br/><strong>Languages</strong><br/><code>Multi-stack</code></td>
+      <td align="center">🚀<br/><strong>Profile</strong><br/><code>Top Contributor</code></td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -167,7 +180,7 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://leetcode.com/game_ale/">
-          <img src="https://leetcode-stats-six.vercel.app/?username=game_ale&theme=dark" alt="LeetCode Stats" />
+          <img src="https://leetcard.jacoblin.cool/game_ale?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
         </a>
       </td>
       <td align="center" width="50%">
