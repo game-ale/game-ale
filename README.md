@@ -42,13 +42,22 @@
 
 <br/>
 
-<!-- GITHUB TROPHIES -->
+<!-- GITHUB SNAPSHOT -->
 <div align="center">
   <img src="https://img.shields.io/badge/Repos-56-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Stars-220+-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Followers-1.3K-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Contributions-6.8K+-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/PRs-Merged-00ff41?style=for-the-badge&logo=git&logoColor=00ff41&labelColor=0d1117" />
+</div>
+
+<br/>
+
+<!-- GITHUB TROPHY CUPS -->
+<h3 align="center">🏆 GitHub Trophy Cups</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=game-ale&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophy Cups" />
 </div>
 
 <br/>
