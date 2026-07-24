@@ -17,41 +17,35 @@
   <a href="https://game-ldev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=googlechrome&logoColor=0d1117" />
   </a>
-  <a href="https://linkedin.com/in/gemechu-alemu-9a5185338">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:alemugemechu44@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/game_ale/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/profile/gemechualemu">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://t.me/AletheiaNike">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://x.com/alemu_geme88545">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://zindi.africa/users/game_ale">
     <img src="https://img.shields.io/badge/Zindi-111111?style=for-the-badge&logoColor=white" />
   </a>
+  <a href="https://codeforces.com/profile/gemechualemu">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="mailto:alemugemechu44@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/alemu_geme88545">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/gemechu-alemu-9a5185338">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/AletheiaNike">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/251949297359">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </div>
 
 <br/>
 
-<!-- GITHUB SNAPSHOT -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Repos-56-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Stars-220+-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Followers-1.3K-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Contributions-6.8K+-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/PRs-Merged-00ff41?style=for-the-badge&logo=git&logoColor=00ff41&labelColor=0d1117" />
-</div>
 
-<br/>
 
 <!-- SNAKE ANIMATION -->
 <h3 align="center">🐍 Contribution Journey</h3>
