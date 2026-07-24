@@ -15,7 +15,7 @@
 <!-- SOCIAL LINKS -->
 <div align="center">
   <a href="https://gemechualemu.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=googlechrome&logoColor=0d1117" />
+    <img src="https://img.shields.io/badge/Portfolio-2ea043?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://leetcode.com/game_ale/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
@@ -212,7 +212,7 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=game-ale&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=game-ale&label=Profile%20Views&color=2ea043&style=for-the-badge" alt="Views" />
 </div>
 
 <br/>
