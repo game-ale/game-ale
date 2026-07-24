@@ -46,7 +46,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=game-ale&label=profile%20view&color=00ff41&style=for-the-badge" alt="profile view" />
+  <img src="https://komarev.com/ghpvc/?username=game-ale&label=profile%20view&color=7f52ff&style=for-the-badge" alt="profile view" />
 </div>
 
 <br/>
@@ -218,7 +218,7 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=game-ale&label=profile%20view&color=2ea043&style=for-the-badge" alt="profile view" />
+  <img src="https://komarev.com/ghpvc/?username=game-ale&label=profile%20view&color=7f52ff&style=for-the-badge" alt="profile view" />
 </div>
 
 <br/>
