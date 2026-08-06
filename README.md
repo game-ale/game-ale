@@ -172,13 +172,13 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=game-ale&show_icons=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&count_private=true&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=game-ale&show_icons=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&count_private=true&hide_border=false&cache_seconds=21600" height="170" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=game-ale&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&langs_count=8&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=game-ale&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&langs_count=8&hide_border=false&cache_seconds=21600" height="170" />
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=game-ale&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&border=00ff41" />
+  <img src="https://streak-stats.demolab.com/?user=game-ale&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&border=00ff41" />
 </div>
 
 ---
