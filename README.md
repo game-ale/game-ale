@@ -172,9 +172,9 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=game-ale&show_icons=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&count_private=true&hide_border=false&cache_seconds=21600" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=game-ale&show_icons=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&count_private=true&hide_border=false&cache_seconds=21600" height="170" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=game-ale&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&langs_count=8&hide_border=false&cache_seconds=21600" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=game-ale&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&langs_count=8&hide_border=false&cache_seconds=21600" height="170" />
   
   <br/>
   
@@ -187,7 +187,7 @@
 <h3 align="center">📈 Contribution Activity</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=game-ale&bg_color=0d1117&color=00ff41&line=2ea043&point=00ff41&area=true&area_color=00ff41&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph-ashen-two.vercel.app/graph?username=game-ale&bg_color=0d1117&color=00ff41&line=2ea043&point=00ff41&area=true&area_color=00ff41&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
