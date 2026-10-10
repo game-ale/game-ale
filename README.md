@@ -16,7 +16,7 @@
   </p>
   <p>
     🔭 <strong>Currently building:</strong> Scalable ML pipelines & Flutter mobile systems at A2SV<br/>
-    🎓 <strong>4th-year CSE</strong> at Adama Science & Technology University
+    🎓 <strong>5th-year CSE</strong> at Adama Science & Technology University
   </p>
 </div>
 
