@@ -1,15 +1,23 @@
 <!-- ═══════════════════════════════════════════════════════════════════════
-     🖤💚 DARK HACKER GREEN — Top 1% GitHub Profile
+     🖤💚 DARK HACKER GREEN — Professional GitHub Profile
      Theme: Matrix-inspired | #0d1117 background | #00ff41 accents
      ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- HEADER: Dark-to-Green Gradient Wave -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00ff41&height=280&section=header&text=Gemechu%20Alemu&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20Data%20Scientist&descAlignY=62&descAlign=50&fontColor=00ff41" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00ff41&height=200&section=header&text=Gemechu%20Alemu&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=60&descAlign=50&fontColor=00ff41" alt="Header" />
+</div>
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=CSE+Student+at+ASTU;Software+Engineer+Trainee+at+A2SV+(Google-Backed);Competitive+Programmer+%7C+EtCPC+Top+8+Ethiopia;Building+Scalable+AI+%26+Flutter+Systems;Training+ML+Models+For+Real+World+Impact" alt="Typing SVG" />
-  </a>
+<!-- ABOUT -->
+<div align="center">
+  <p>
+    I build <strong>AI/ML systems</strong> and <strong>full-stack applications</strong> — from fraud detection pipelines and RAG chatbots to production Flutter apps.<br/>
+    Currently training at <strong>A2SV</strong> (Google-backed) and competing in <strong>ICPC</strong> (Top 8 Ethiopia 🇪🇹).
+  </p>
+  <p>
+    🔭 <strong>Currently building:</strong> Scalable ML pipelines & Flutter mobile systems at A2SV<br/>
+    🎓 <strong>4th-year CSE</strong> at Adama Science & Technology University
+  </p>
 </div>
 
 <!-- SOCIAL LINKS -->
@@ -17,11 +25,11 @@
   <a href="https://gemechualemu.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-2ea043?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/gemechu-alemu-bedasa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://leetcode.com/game_ale/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://zindi.africa/users/game_ale">
-    <img src="https://img.shields.io/badge/Zindi-111111?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/gemechualemu">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -29,55 +37,77 @@
   <a href="mailto:alemugemechu44@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://x.com/alemu_geme88545">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gemechu-alemu-bedasa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/AletheiaNike">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/251949297359">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=game-ale&label=profile%20view&color=7f52ff&style=for-the-badge" alt="profile view" />
-</div>
-
-<br/>
-
-
-
-<!-- SNAKE ANIMATION -->
-<h3 align="center">🐍 Contribution Journey</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br/>
 
 ---
 
-<!-- ABOUT SECTION -->
-<h3 align="center">👨‍💻 Engineering Intelligence</h3>
+<!-- FEATURED PROJECTS -->
+<h3 align="center">🚀 Featured Projects</h3>
 
-<p align="center">
-  I am a fourth-year <strong>CSE Student at ASTU</strong> operating at the intersection of <strong>AI/ML Engineering</strong>, <strong>Mobile Development</strong>, and <strong>Competitive Programming</strong>. Trained through <strong>A2SV (Africa to Silicon Valley — backed by Google)</strong>, I build production-grade intelligence platforms — RAG pipelines, ML systems, and scalable Flutter applications.
-</p>
-
-<p align="center">
-  <em>"I build systems that are efficient by design and intelligent by default."</em>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🛡️ Fraud Detection System</h3>
+        <p align="center">End-to-end fraud detection for e-commerce & banking transactions with ML pipelines, feature engineering, and real-time scoring</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+        </p>
+        <p align="center">
+          <a href="https://github.com/game-ale/Fraud-Detection-System-E-commerce-Banking-Transactions">
+            <img src="https://img.shields.io/badge/View_Project-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🏨 Hotel Booking Pro</h3>
+        <p align="center">Android hotel booking app built with Flutter, BLoC state management, and clean architecture patterns</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+          <img src="https://img.shields.io/badge/BLoC-000000?style=flat&logo=bloc&logoColor=white"/>
+        </p>
+        <p align="center">
+          <a href="https://github.com/game-ale/hotel-booking-pro">
+            <img src="https://img.shields.io/badge/View_Project-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🤖 AI Chatbot</h3>
+        <p align="center">Versatile AI chatbot built with Flask and Google Gemini — conversational AI with context-aware responses</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white"/>
+        </p>
+        <p align="center">
+          <a href="https://github.com/game-ale/Chatbot-AI">
+            <img src="https://img.shields.io/badge/View_Project-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">📊 Insurance Risk Analytics</h3>
+        <p align="center">End-to-end insurance risk analytics & predictive modeling — EDA, feature engineering, and model deployment</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+        </p>
+        <p align="center">
+          <a href="https://github.com/game-ale/End-2-End-Insurance-Risk-Analytics-Predictive-Modeling">
+            <img src="https://img.shields.io/badge/View_Project-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -107,24 +137,19 @@
       <td>775+ Problems Solved · Rating 1416+</td>
     </tr>
     <tr>
-      <td align="center">⚔️</td>
-      <td><strong>Codeforces</strong></td>
-      <td>Rating 1081 · Active Competitor</td>
-    </tr>
-    <tr>
       <td align="center">🤖</td>
       <td><strong>Zindi Africa</strong></td>
       <td>Top 10% in multiple ML competitions</td>
     </tr>
     <tr>
-      <td align="center">🎓</td>
-      <td><strong>10 Academy — Kifiya AI</strong></td>
-      <td>Certified AI & MLOps Engineer</td>
-    </tr>
-    <tr>
       <td align="center">💼</td>
       <td><strong>A2SV (Google-Backed)</strong></td>
       <td>Software Engineering Trainee · 450+ problems</td>
+    </tr>
+    <tr>
+      <td align="center">🎓</td>
+      <td><strong>10 Academy — Kifiya AI</strong></td>
+      <td>Certified AI & MLOps Engineer</td>
     </tr>
   </table>
 </div>
@@ -132,93 +157,76 @@
 ---
 
 <!-- TECH STACK -->
-<h3 align="center">🚀 Technical Arsenal</h3>
+<h3 align="center">⚡ Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,dart,java,js,ts&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,nextjs,react,fastapi,django,nodejs&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,postgres,mongodb,firebase&theme=dark" />
+
+  **Languages:** `Python` · `C++` · `Dart` · `Java` · `TypeScript` · `Go`
+
+  **AI / ML:** `TensorFlow` · `PyTorch` · `Scikit-learn` · `LangChain` · `MLflow`
+
+  **Frontend & Mobile:** `Flutter` · `React` · `Next.js`
+
+  **Backend:** `FastAPI` · `Django` · `Node.js` · `Flask`
+
+  **Data & DevOps:** `PostgreSQL` · `MongoDB` · `Firebase` · `Docker` · `GitHub Actions`
+
 </div>
 
 ---
 
-<!-- COMPETITIVE PROGRAMMING SECTION -->
-<h3 align="center">🏆 Algorithmic Mastery</h3>
+<!-- COMPETITIVE PROGRAMMING -->
+<h3 align="center">🏆 Competitive Programming</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://leetcode.com/game_ale/">
-          <img src="https://leetcard.jacoblin.cool/game_ale?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <h3>🥇 ICPC 2025 (Ethiopia)</h3>
-        <p><code>8th Place Regional Rank</code></p>
-        <p>Awarded for excellence in algorithmic problem solving under high pressure.</p>
-        <br/>
-        <strong>⚔️ Codeforces:</strong> Rating 1081<br/>
-        <strong>🎓 LeetCode:</strong> 775+ Problems Solved<br/>
-        <strong>🏅 Rating:</strong> 1416+
-      </td>
-    </tr>
-  </table>
+  <a href="https://leetcode.com/game_ale/">
+    <img src="https://leetcard.jacoblin.cool/game_ale?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </div>
 
 ---
 
-<!-- GITHUB STATS SECTION — Hacker Green Theme -->
+<!-- GITHUB TROPHIES -->
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=game-ale&theme=matrix&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+</div>
+
+---
+
+<!-- GITHUB STATS -->
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=game-ale&show_icons=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&count_private=true&hide_border=false&cache_seconds=21600" height="170" />
-  
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=game-ale&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&langs_count=8&hide_border=false&cache_seconds=21600" height="170" />
-  
-  <br/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=game-ale&show_icons=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&count_private=true&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=game-ale&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&langs_count=8&hide_border=false" height="170" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=game-ale&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&border=00ff41" />
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-<h3 align="center">📈 Contribution Activity</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph-ashen-two.vercel.app/graph?username=game-ale&bg_color=0d1117&color=00ff41&line=2ea043&point=00ff41&area=true&area_color=00ff41&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-<!-- 3D CONTRIBUTION GRAPH -->
-<h3 align="center">🧊 3D Contribution Map</h3>
+<!-- SNAKE ANIMATION -->
+<h3 align="center">🐍 Contribution Snake</h3>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/game-ale/game-ale/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
-
----
-
-<!-- SPOTIFY NOW PLAYING -->
-<h3 align="center">🎵 Vibing While Coding</h3>
-
-<div align="center">
-  
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jwnhlnhswiieeqoetmnwpwrscy&cover_image=true&theme=novatorem&show_offline=true&background_color=0e0b11&interchange=false&profanity=false&hide_remaster=false&bar_color=00ff29&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
 </div>
 
 ---
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=game-ale&label=profile%20view&color=7f52ff&style=for-the-badge" alt="profile view" />
+  <img src="https://komarev.com/ghpvc/?username=game-ale&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
