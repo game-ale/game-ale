@@ -226,7 +226,7 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <a href="https://hits.sh/github.com/game-ale/"><img src="https://hits.sh/github.com/game-ale.svg?style=for-the-badge&label=Profile+Views&color=00ff41&labelColor=0d1117" alt="Profile Views"/></a>
+  <a href="https://hits.sh/github.com/game-ale/"><img src="https://hits.sh/github.com/game-ale.svg?style=for-the-badge&label=Profile+Views&color=00ff41&labelColor=1a4d2e" alt="Profile Views"/></a>
 </div>
 
 <br/>
