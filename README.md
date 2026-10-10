@@ -134,7 +134,7 @@
     <tr>
       <td align="center">🧠</td>
       <td><strong>LeetCode</strong></td>
-      <td>775+ Problems Solved · Rating 1416+</td>
+      <td>1000+ Problems Solved · Rating 1416+</td>
     </tr>
     <tr>
       <td align="center">🤖</td>
