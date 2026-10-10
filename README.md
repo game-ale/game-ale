@@ -226,7 +226,7 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=game-ale&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=game-ale&label=Profile+Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
