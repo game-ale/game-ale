@@ -190,7 +190,7 @@
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=game-ale&theme=matrix&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=game-ale&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </div>
 
 ---
@@ -226,7 +226,7 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=game-ale&label=Profile+Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=game-ale&label=Profile+Views&color=00ff41&style=for-the-badge&v=2" alt="Profile Views" />
 </div>
 
 <br/>
